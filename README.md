@@ -7,7 +7,7 @@ It's highly dynamic and is grobally chaotic yet locally interestingly structured
 <img width="1270" height="633" alt="Screenshot 2025-08-25 012338" src="https://github.com/user-attachments/assets/677dddd2-bf52-4571-8939-b47774fb6927" />
 
 ## Installation
-Download the `.zip` file and build the app via `sbt run`.
+Download the source code and build the app via `sbt run`.
 
 ## Explaination
 The evolution rules are based on the $D_{3}$ (dihedral) group. Instead of simple on/off states, this CA's cells have states from 0 to 5.
