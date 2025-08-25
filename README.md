@@ -1,7 +1,7 @@
 # Dinges' Automata
 An attempt to create a cellular automata inspired by group theory. It turned out very similar to Conwey's GoL but is pretty fun.
 
-It's highly dynamic and is grobally chaotic yet locally interestingly structured.
+It's highly dynamic yet interestingly structured.
 <img width="738" height="434" alt="Screenshot 2025-08-25 013753" src="https://github.com/user-attachments/assets/fbc6d3b4-ae42-4997-bb6f-43e90de23893" />
 <img width="1272" height="634" alt="Screenshot 2025-08-25 012318" src="https://github.com/user-attachments/assets/ae4e827c-2447-4700-97e5-3802f06bb02e" />
 <img width="1270" height="633" alt="Screenshot 2025-08-25 012338" src="https://github.com/user-attachments/assets/677dddd2-bf52-4571-8939-b47774fb6927" />
